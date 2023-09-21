@@ -12,9 +12,11 @@ int main() {
 			arr[i] = num;
 			s.insert(num);
 		}
-		if(s.size() == 1 && arr[0] == 0) // 여기부터
-		sort(arr, arr + 2);
-		if (arr[0] >= arr[1] + arr[2]) {
+		if (s.size() == 1 && arr[0] == 0) {
+			break;
+		}
+		sort(arr, arr + 3);
+		if (arr[2] >= arr[0] + arr[1]) {
 			cout << "Invalid" << endl;
 		}
 		else if (s.size() == 1) {
