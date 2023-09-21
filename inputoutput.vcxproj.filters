@@ -147,5 +147,8 @@
     <ClCompile Include="3003.cpp">
       <Filter>소스 파일\advanced1</Filter>
     </ClCompile>
+    <ClCompile Include="14215.cpp">
+      <Filter>소스 파일\geometry</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
