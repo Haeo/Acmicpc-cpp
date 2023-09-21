@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\input_output">
       <UniqueIdentifier>{89196b11-b056-45cf-aacc-6c64cd2c8383}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\time complexity">
+      <UniqueIdentifier>{33f55fe4-0c59-46dc-8a75-c757ad9443ff}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2525.cpp">
@@ -149,6 +152,21 @@
     </ClCompile>
     <ClCompile Include="14215.cpp">
       <Filter>소스 파일\geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="24262.cpp">
+      <Filter>소스 파일\time complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="24263.cpp">
+      <Filter>소스 파일\time complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="24264.cpp">
+      <Filter>소스 파일\time complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="24265.cpp">
+      <Filter>소스 파일\time complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="24266.cpp">
+      <Filter>소스 파일\time complexity</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
