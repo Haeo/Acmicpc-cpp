@@ -142,11 +142,13 @@
     <ClCompile Include="14215.cpp" />
     <ClCompile Include="15894.cpp" />
     <ClCompile Include="18108.cpp" />
+    <ClCompile Include="19532.cpp" />
     <ClCompile Include="24262.cpp" />
     <ClCompile Include="24263.cpp" />
     <ClCompile Include="24264.cpp" />
     <ClCompile Include="24265.cpp" />
     <ClCompile Include="24266.cpp" />
+    <ClCompile Include="24267.cpp" />
     <ClCompile Include="2444.cpp" />
     <ClCompile Include="2480.cpp" />
     <ClCompile Include="2501.cpp" />
