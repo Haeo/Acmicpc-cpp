@@ -363,3 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 /24267.cpp
 /1018.cpp
+/inputoutput.vcxproj
+/inputoutput.vcxproj.filters
+
